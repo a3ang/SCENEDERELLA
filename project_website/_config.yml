@@ -16,7 +16,7 @@
 
 # Build settings
 markdown: kramdown
-baseurl: "/project_page"  # repository 이름
+baseurl: "/SCENEDERELLA"  # repository 이름
 url: "https://a3ang.github.io"  # 본인의 github username으로 변경
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
